@@ -1,4 +1,4 @@
-
+//This is the questions of my javascript series
 
 const readlineSync = require("readline-sync");
 const user =readlineSync.question("type your name");
